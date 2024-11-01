@@ -1,4 +1,4 @@
-## Chess Programme in C
+## Chess Program in C
 
 ### Overview
 This project is a chess game implemented in the C programming language. Currently under development
